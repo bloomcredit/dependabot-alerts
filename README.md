@@ -1,3 +1,11 @@
+> **Archived (2026-09-22).** Bloom Credit no longer uses this repository.
+>
+> Last non-maintenance commit: 2025-01-28. Recheck found no contribution after 2025-09-22. Platform archived it ([sc-32678](https://app.shortcut.com/bloom-credit/story/32678)).
+>
+> Do not add new work here. If you still need this code, unarchive the repository and comment on sc-32678.
+
+---
+
 <a href="https://github.com/hypothesis/dependabot-alerts/actions/workflows/ci.yml?query=branch%3Amain"><img src="https://img.shields.io/github/actions/workflow/status/hypothesis/dependabot-alerts/ci.yml?branch=main"></a>
 <a><img src="https://img.shields.io/badge/python-3.12 | 3.11 | 3.10 | 3.9-success"></a>
 <a href="https://github.com/hypothesis/dependabot-alerts/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-BSD--2--Clause-success"></a>
